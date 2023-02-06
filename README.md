@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeiChun0723
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning React.
+- 🌱 Just another programmer try to learn new stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
