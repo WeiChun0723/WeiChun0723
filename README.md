@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @WeiChun0723
 - 👀 I’m interested in new technologies.
 - 🌱 Just another programmer try to learn new stuff.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me laiwc0723@gmail.com
 
 <!---
 WeiChun0723/WeiChun0723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
