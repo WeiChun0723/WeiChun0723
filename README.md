@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WeiChun0723
-- 👀 I’m currently exploring on Machine learning and Python.
 - 🌱 Just another programmer try to explore the tech world.
 - 📫 How to reach me laiwc0723@gmail.com
 
